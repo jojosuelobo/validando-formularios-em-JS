@@ -1,7 +1,7 @@
 <!-- <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p> -->
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 
-<p align="center"> ## Validando forms em JS </p>
+<p align="center"> Validando forms em JS </p>
 
 ## Definição de `types` JS
 

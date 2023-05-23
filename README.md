@@ -1,13 +1,6 @@
 <!-- <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p> -->
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<!-- 
-## Tecnologias utilizadas durante o curso
-* JavaScript
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
- -->
 ## Validando forms em JS
 
 ## Definição de `types` JS
